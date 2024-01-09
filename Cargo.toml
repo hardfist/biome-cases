@@ -6,3 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+biome_js_parser = "*"
+biome_js_analyze = "*"
+biome_js_syntax = "*"
+biome_js_semantic = "*"
+biome_rowan = "*"
